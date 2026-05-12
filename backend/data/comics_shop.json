@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "Titre": "Garfield - Tome 1",
+    "auteur": "Jim Davis",
+    "Descriptions": "Découvrez les aventures hilarantes et paresseuses de Garfield, le célèbre chat cynique et grand amateur de lasagnes.",
+    "Annees": 2012,
+    "image": "Photo-projet/comics-garfield-img.webp"
+  },
+  {
+    "id": 2,
+    "Titre": "Green Arrow",
+    "auteur": "Scott Clark",
+    "Descriptions": "Les aventures explosives d'Oliver Queen, l'archer d'émeraude et protecteur impitoyable de Star City face à de nouveaux ennemis.",
+    "Annees": 2018,
+    "image": "Photo-projet/comics-green-arrow-img.jpg"
+  },
+  {
+    "id": 3,
+    "Titre": "The Mask",
+    "auteur": "John Arcudi, Doug Mahnke",
+    "Descriptions": "Un masque mystique confère des pouvoirs cartoonesques, illimités et une folie destructrice incontrôlable à quiconque le porte.",
+    "Annees": 1991,
+    "image": "Photo-projet/comics-img-Mask.jpg"
+  },
+  {
+    "id": 4,
+    "Titre": "Star Wars: Dark Vador",
+    "auteur": "Greg Pak, Raffaele Ienco",
+    "Descriptions": "Plongez dans la psyché torturée et la quête de vengeance implacable du plus célèbre et redouté Seigneur Sith de la galaxie.",
+    "Annees": 2020,
+    "image": "Photo-projet/comics-img-darth-vador.webp"
+  },
+  {
+    "id": 5,
+    "Titre": "The Flash: Fastest Man Alive",
+    "auteur": "Jim Lee, divers (DC Comics)",
+    "Descriptions": "Célébrez les 80 ans du coureur écarlate avec cette édition regroupant les histoires les plus marquantes de Barry Allen.",
+    "Annees": 2019,
+    "image": "Photo-projet/comics-img-flash.jpg"
+  },
+  {
+    "id": 6,
+    "Titre": "Justice League - Origin",
+    "auteur": "Geoff Johns, Jim Lee",
+    "Descriptions": "Les plus grands héros de la Terre (Superman, Batman, Wonder Woman...) s'unissent pour la première fois face à l'invasion de Darkseid.",
+    "Annees": 2011,
+    "image": "Photo-projet/comics-img-justice-league.jpg"
+  },
+  {
+    "id": 7,
+    "Titre": "Star Wars",
+    "auteur": "Charles Soule",
+    "Descriptions": "Les batailles épiques entre l'Empire Galactique et l'Alliance Rebelle continuent dans cette fantastique série canonique.",
+    "Annees": 2015,
+    "image": "Photo-projet/comics-img-star-wars.jpg"
+  },
+  {
+    "id": 8,
+    "Titre": "Viking Moon",
+    "auteur": "Joe Pruett, Marcelo Frusin",
+    "Descriptions": "Un récit brutal et sanglant où des guerriers vikings féroces doivent survivre face à une horde de loups-garous affamés.",
+    "Annees": 2025,
+    "image": "Photo-projet/comics-img-viking.jpg"
+  },
+  {
+    "id": 9,
+    "Titre": "Zorro: The Complete Dell Pre-Code Comics",
+    "auteur": "Divers",
+    "Descriptions": "L'intégrale des premières aventures classiques du célèbre justicier masqué défendant les opprimés en Californie espagnole.",
+    "Annees": 1949,
+    "image": "Photo-projet/comics-img-zorro.jpg"
+  },
+  {
+    "id": 10,
+    "Titre": "Invincible - Intégrale Volume 12",
+    "auteur": "Robert Kirkman, Ryan Ottley",
+    "Descriptions": "Les batailles finales et sanglantes de Mark Grayson dans cet univers de super-héros mature, brutal et sans concession.",
+    "Annees": 2018,
+    "image": "Photo-projet/comics-invincible-image.webp"
+  },
+  {
+    "id": 11,
+    "Titre": "The Amazing Spider-Man",
+    "auteur": "J.M. Straczynski, John Romita Jr.",
+    "Descriptions": "Peter Parker fait face à de nouvelles menaces mystiques tout en jonglant avec ses immenses responsabilités d'homme-araignée.",
+    "Annees": 2001,
+    "image": "Photo-projet/comics-spiderman-image.jpg"
+  },
+  {
+    "id": 12,
+    "Titre": "Teen Titans",
+    "auteur": "Benjamin Percy",
+    "Descriptions": "Les jeunes prodiges et acolytes de l'univers DC s'unissent pour forger leur propre destinée loin de l'ombre de leurs mentors.",
+    "Annees": 2016,
+    "image": "Photo-projet/comics-teen-titans-img.webp"
+  },
+  {
+    "id": 13,
+    "Titre": "The Boys - Volume 2",
+    "auteur": "Garth Ennis, Darick Robertson",
+    "Descriptions": "L'équipe d'intervention musclée de Billy Butcher continue sa mission secrète : remettre à leur place les super-héros corrompus.",
+    "Annees": 2007,
+    "image": "Photo-projet/comics-the-boys-img.jpg"
+  },
+  {
+    "id": 14,
+    "Titre": "Thor",
+    "auteur": "Donny Cates",
+    "Descriptions": "Le Dieu du Tonnerre, désormais Roi d'Asgard, doit affronter des entités cosmiques primordiales pour éviter la destruction totale.",
+    "Annees": 2020,
+    "image": "Photo-projet/comics-thor-img.jpg"
+  },
+  {
+    "id": 15,
+    "Titre": "Batman: Detective Comics",
+    "auteur": "Tony S. Daniel",
+    "Descriptions": "Le Chevalier Noir enquête dans les ruelles les plus sombres de Gotham face au Joker et à de nouveaux tueurs en série machiavéliques.",
+    "Annees": 2011,
+    "image": "Photo-projet/comics_batman1-img.jpg"
+  },
+  {
+    "id": 16,
+    "Titre": "Cheerleaders",
+    "auteur": "Fernando",
+    "Descriptions": "Une bande dessinée au ton résolument adulte mêlant mystère, romance et thriller. (Pour public très averti).",
+    "Annees": 2010,
+    "image": "Photo-projet/image-comics-erotique.jpg"
+  },
+  {
+    "id": 17,
+    "Titre": "MF DOOM : Operation Doomsday",
+    "auteur": "Daniel Dumile",
+    "Descriptions": "L'incarnation visuelle du mythique super-vilain du hip-hop underground dans un univers graphique fascinant et complexe.",
+    "Annees": 1999,
+    "image": "Photo-projet/mfdoom-comics-img.jpg"
+  },
+  {
+    "id": 18,
+    "Titre": "Superman: Kryptonite Nevermore!",
+    "auteur": "Dennis O'Neil, Curt Swan",
+    "Descriptions": "Une aventure classique où l'Homme d'Acier se libère de ses chaînes de Kryptonite pour faire face à une Terreur Inédite.",
+    "Annees": 1971,
+    "image": "Photo-projet/superman-comics-img.webp"
+  },
+  {
+    "id": 19,
+    "Titre": "Mahmoud Viltrum Terminator",
+    "descriptions": "PRODUIT EXCLUSIF ET ULTRA-LIMITÉ ! Une véritable pièce maîtresse pour votre collection. \n\nHistoire : Lors d'une expédition interdimensionnelle de l'Empire de Viltrum, le redoutable guerrier Mahmoud fut aspiré par une anomalie temporelle et recraché dans un futur apocalyptique gouverné par Skynet. Après avoir détruit des armées entières de T-800 à mains nues, son corps fut gravement endommagé. Les machines, fascinées par son ADN extraterrestre, décidèrent de l'assimiler au lieu de l'achever. Le résultat ? L'hybride parfait. Doté de la puissance invincible des Viltrumites et de l'armature cybernétique froide et calculatrice d'un Terminator, Mahmoud Viltrum Terminator a depuis retourné sa force contre Skynet lui-même. Aujourd'hui, il arpente le multivers pour imposer son propre ordre : la paix par la puissance absolue. Ne manquez pas cette figurine mythique !",
+    "Fait par": "ADEL Mahmoud",
+    "Editions": "Limiter 1/1",
+    "image": "Photo-projet/mahmoud-img-projet.png"
+  }
+]
